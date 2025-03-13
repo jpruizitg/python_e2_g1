@@ -1,2 +1,2 @@
-# python_e2_g1
-Python Essentials 2 - Group 2
+# Bienvenido a Python Essentails 2
+ITG - Group 2
